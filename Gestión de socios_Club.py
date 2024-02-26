@@ -143,7 +143,7 @@ def borrar_actividades():
     print("\n Actividad eliminada correctamente \n ")
                
 def main():
-    
+    # Este es el menu principal.-
     opcion=menu()
     while opcion!=0:
         if opcion==1:
